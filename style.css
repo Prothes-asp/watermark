@@ -1,0 +1,14 @@
+#background{
+    position: absolute;
+    z-index: -1;
+    top: 35%;
+    left: 20%;
+}
+
+#bg-text
+{
+    color:lightgrey;
+    font-size:120px;
+    transform:rotate(-30deg);
+    -webkit-transform:rotate(-30deg);
+}
